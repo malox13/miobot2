@@ -1,0 +1,9 @@
+*.db
+*.db-journal
+__pycache__/
+*.pyc
+.env
+*.egg-info/
+dist/
+build/
+.DS_Store
